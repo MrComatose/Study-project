@@ -1,0 +1,17 @@
+D:\ASP.Net Core\SportStore\Test\SportStore.Tests\bin\Debug\netcoreapp2.0\SportStore.Tests.deps.json
+D:\ASP.Net Core\SportStore\Test\SportStore.Tests\bin\Debug\netcoreapp2.0\SportStore.Tests.dll
+D:\ASP.Net Core\SportStore\Test\SportStore.Tests\obj\Debug\netcoreapp2.0\SportStore.Tests.csprojResolveAssemblyReference.cache
+D:\ASP.Net Core\SportStore\Test\SportStore.Tests\obj\Debug\netcoreapp2.0\SportStore.Tests.csproj.CoreCompileInputs.cache
+D:\ASP.Net Core\SportStore\Test\SportStore.Tests\obj\Debug\netcoreapp2.0\SportStore.Tests.AssemblyInfoInputs.cache
+D:\ASP.Net Core\SportStore\Test\SportStore.Tests\obj\Debug\netcoreapp2.0\SportStore.Tests.AssemblyInfo.cs
+D:\ASP.Net Core\SportStore\Test\SportStore.Tests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\ASP.Net Core\SportStore\Test\SportStore.Tests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+D:\ASP.Net Core\SportStore\Test\SportStore.Tests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+D:\ASP.Net Core\SportStore\Test\SportStore.Tests\bin\Debug\netcoreapp2.0\SportStore.Tests.runtimeconfig.json
+D:\ASP.Net Core\SportStore\Test\SportStore.Tests\bin\Debug\netcoreapp2.0\SportStore.Tests.runtimeconfig.dev.json
+D:\ASP.Net Core\SportStore\Test\SportStore.Tests\bin\Debug\netcoreapp2.0\SportStore.Tests.pdb
+D:\ASP.Net Core\SportStore\Test\SportStore.Tests\obj\Debug\netcoreapp2.0\SportStore.Tests.dll
+D:\ASP.Net Core\SportStore\Test\SportStore.Tests\obj\Debug\netcoreapp2.0\SportStore.Tests.pdb
+D:\ASP.Net Core\SportStore\Test\SportStore.Tests\bin\Debug\netcoreapp2.0\SportStore.dll
+D:\ASP.Net Core\SportStore\Test\SportStore.Tests\bin\Debug\netcoreapp2.0\SportStore.pdb
+D:\ASP.Net Core\SportStore\Test\SportStore.Tests\obj\Debug\netcoreapp2.0\SportStore.Tests.csproj.CopyComplete

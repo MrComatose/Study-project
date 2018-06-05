@@ -1,0 +1,45 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link rel="stylesheet" href="~/assets/css/Loader.min.css" />
+
+    <link rel="stylesheet" asp-href-include="lib/bootstrap/dist/css/*.min.css" />
+    <link rel="stylesheet" href="~/lib/fontawesome/web-fonts-with-css/css/fontawesome-all.min.css" />
+
+    <title>Sport store</title>
+</head>
+<body >
+    
+    <div class="navbar navbar-inverse" role="navigation">
+        <div class="container">
+            <a class=" navbar-header" asp-action="List" asp-controller="Product">
+                <img class="fa-font-awesome-logo-full" src="~/assets/img/Logo.png" width="100"  />
+            </a>
+           
+            <div class="pull-right">@await Component.InvokeAsync("CartSummary")</div>
+        </div>
+    </div>
+    <div class="container">
+
+
+        <div class="row">
+            <div id="categories" class="col-sm-3">
+                @await Component.InvokeAsync("NavigationMenu")
+            </div>
+            <div class="col-sm-9">
+                <div class="loader-body" id="loader">
+
+                    <div class="loader">
+                        <img width="75" height="75" src="~/assets/img/pybertant.jpg"  />
+                    </div>
+                </div>
+                @RenderBody()
+            </div>
+        </div>
+    </div>
+    <script src="~/assets/js/Loader.min.js"></script>
+</body>
+
+</html>

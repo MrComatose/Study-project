@@ -1,0 +1,4 @@
+D:\ASP.Net Core\SportStore\SportStore\SportStore\obj\Debug\netcoreapp1.1\SportStore.csprojResolveAssemblyReference.cache
+D:\ASP.Net Core\SportStore\SportStore\SportStore\obj\Debug\netcoreapp1.1\SportStore.csproj.CoreCompileInputs.cache
+D:\ASP.Net Core\SportStore\SportStore\SportStore\obj\Debug\netcoreapp1.1\SportStore.AssemblyInfoInputs.cache
+D:\ASP.Net Core\SportStore\SportStore\SportStore\obj\Debug\netcoreapp1.1\SportStore.AssemblyInfo.cs

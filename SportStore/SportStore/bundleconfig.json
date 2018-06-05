@@ -1,0 +1,14 @@
+[
+  {
+    "outputFileName": "wwwroot/assets/css/Loader.min.css",
+    "inputFiles": [
+      "wwwroot/assets/css/Loader.css"
+    ]
+  },
+  {
+    "outputFileName": "wwwroot/assets/js/Loader.min.js",
+    "inputFiles": [
+      "wwwroot/assets/js/Loader.js"
+    ]
+  }
+]

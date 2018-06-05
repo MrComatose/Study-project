@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Moq" Version="4.8.2" />
+    <PackageReference Include="xunit" Version="2.4.0-beta.1.build3958" />
+    <PackageReference Include="xunit.runner.visualstudio" Version="2.4.0-beta.1.build3958" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\SportStore\SportStore\SportStore.csproj" />
+  </ItemGroup>
+
+</Project>

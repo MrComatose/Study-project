@@ -1,0 +1,33 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link rel="stylesheet" asp-href-include="lib/bootstrap/dist/css/*.min.css" />
+    <title>@ViewBag.Title</title>
+    <style>
+        .input-validation-error {
+            border-color: red;
+            background-color: #fee;
+        }
+    </style>
+    <script asp-src-include="lib/jquery/**/jquery.min.js"></script>
+    <script asp-src-include="lib/jquery-validation/**/jquery.validation.min.js"></script>
+    <script asp-src-include="lib/jquery-validation-unobtrusive/**/*.min.js"></script>
+
+</head>
+<body class="panel panel-default">
+    <div class="container">
+        <div class="panel-heading"><h4>@ViewBag.Title
+             <a class="btn btn-primary pull-right" asp-action="Logout" asp-controller="Account">Log out</a>
+             </h4></div>
+        <div class="panel-body">
+            @if (TempData["Message"]!=null)
+            {
+                <div class="alert alert-success">@TempData["Message"]</div>
+            }
+            @RenderBody()
+        </div>
+    </div>
+</body>
+</html>
